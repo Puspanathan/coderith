@@ -21,7 +21,7 @@
 	 <hr><center><h2><B>Tell us what you need</B></h2><hr></center>
 	 <center><h2>Fill the initials</h2>
 	 <form>
-		<B>First Name&nbsp&nbsp:<INPUT TYPE="text" NAME="First name" placeholder="First name" SIZE=n MAXLENGTH=n></B> <br><br>
+		<B>First Name:<INPUT TYPE="text" NAME="First name" placeholder="First name" SIZE=n MAXLENGTH=n></B> <br><br>
 		<B>Select Model:</B><select>
 				<option> TATA Altroz
 				<option> TATA Harrier
@@ -31,7 +31,7 @@
 				<option> Hyundai Verna
 				<option> MG Hector+
 		<input type="reset"><br><br>
-			<B>Feul type&nbsp&nbsp&nbsp&nbsp&nbsp:</B><input type="radio" id="Diesel" name="Feul Type" value="Diesel">
+			<B>Feul type:</B><input type="radio" id="Diesel" name="Feul Type" value="Diesel">
 				<label for="diesel">Diesel</label>
 					<input type="radio" id="petrol" name="Feul Type" value="Petrol">	
 				<label for="Petrol">Petrol</label>
@@ -39,7 +39,7 @@
 				<label for="gas">LPG</label>
 					<input type="radio" id="electric" name="Feul Type" value="electric">	
 				<label for="electric">Electric</label><br><br>	
-					<B> Address &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:<input type="text" name="Address" placeholder="Permanent Address" size=n maxlength=n alt="Address" height="100" width="300"></B><br>
+					<B> Address:<input type="text" name="Address" placeholder="Permanent Address" size=n maxlength=n alt="Address" height="100" width="300"></B><br>
 <div class="form-group">
                 <label for="exampleInputEmail1">Email address</label>
 	<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
